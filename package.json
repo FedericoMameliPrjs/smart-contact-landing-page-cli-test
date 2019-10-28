@@ -1,7 +1,7 @@
 {
   "name": "pg-landing-page",
   "version": "1.2.0",
-  "description": "Downloads the default landing page project into a folder",
+  "description": "Downloads the default landing page project",
   "bin": {
     "pg-landing-page": "src/cli.js"
   },
