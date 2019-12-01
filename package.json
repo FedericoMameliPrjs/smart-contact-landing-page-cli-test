@@ -1,18 +1,18 @@
 {
-  "name": "pg-landing-page",
+  "name": "@smart-contact/landing-page-cli",
   "version": "1.2.0",
-  "description": "Downloads the default landing page project",
+  "description": "A simple cli to manage landing page projects",
   "bin": {
     "pg-landing-page": "src/cli.js"
   },
-  "scripts": {
-
-  },
-  "keywords": [],
-  "author": "Mameli Federico",
-  "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.2",
     "download-git-repo": "^3.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://federico.mameli@git.octopusmanagement.it:7990/scm/lpd/landing-page-starter-installer.git"
+  },
+  "author": "Mameli Federico <federico.mameli@smart-contact.it>",
+  "license": "ISC"
 }
