@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://federico.mameli@git.octopusmanagement.it:7990/scm/lpd/landing-page-starter-installer.git"
+    "url": "https://github.com/FedericoMameliPrjs/smart-contact-landing-page-cli-test.git"
   },
   "author": "Mameli Federico <federico.mameli@smart-contact.it>",
   "license": "ISC"
